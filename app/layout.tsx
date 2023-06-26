@@ -20,7 +20,6 @@ export default function RootLayout({
       */}
       <head />
       <body className="dark:bg-stone-900 relative">
-
         <div className="absolute inset-0 -left-px bottom-0 z-[-3] bg-cover bg-center new-bg" />
         <Navbar />
         {children}
