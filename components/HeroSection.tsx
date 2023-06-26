@@ -35,7 +35,7 @@ const HeroSection = () => {
             <div className='font-semibold'>R</div>
             <div className='font-semibold'>U</div>
           </div>
-          <div className="motto-up-btn text-xl md:text-3xl lg:text-4xl font-header hover:scale-105 cursor-cell text-center text-[#25cce2] mb-5">
+          <div className="motto-up-btn font-header hover:scale-105 cursor-cell text-center mb-5">
             <span className="glow"></span>
             <div className="font-header text-xl">
               Do unto others as you would like them to do to you!
