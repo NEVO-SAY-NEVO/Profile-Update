@@ -1,6 +1,6 @@
 "use client"
 import "../styles/globals.css"
-import "../styles/custom.scss"
+import "../styles/custom.css"
 import "../styles/fonts.css"
 import {useEffect} from 'react'
 import Navbar from "@/components/Navbar"
